@@ -21,3 +21,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 All requirements and bonus points are implemented. Created app is using App Router Next.js paradigm. For the purpose of opening the product detail page by link, there is fetching data on this page.
 
 ## Deployed on Vercel
+
+[chililabs-test.vercel.app](https://chililabs-test.vercel.app/)
